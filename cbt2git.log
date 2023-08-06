@@ -1,0 +1,8 @@
+2023-08-06 05:36:33.072958 - Initialized conversion of CBT620
+2023-08-06 05:36:33.112398 - Received CBT.V505.FILE620.PDS from FILE620.XMI 
+2023-08-06 05:36:33.115053 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:36:33.116151 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:36:33.117168 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE2
+2023-08-06 05:36:33.118315 - Found $SAMPJCL.jcl (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$SAMPJCL
+2023-08-06 05:36:33.119194 - Found @FILE620.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/@FILE620
+2023-08-06 05:36:33.120017 - Found MWCBLCPY.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/MWCBLCPY
