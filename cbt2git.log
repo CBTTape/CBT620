@@ -1,0 +1,7 @@
+2025-04-13 21:15:59.299723 - Received CBT.V505.FILE620.PDS from FILE620.XMI 
+2025-04-13 21:15:59.300484 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:15:59.300560 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE1
+2025-04-13 21:15:59.300625 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE2
+2025-04-13 21:15:59.300684 - Found $SAMPJCL.jcl (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$SAMPJCL
+2025-04-13 21:15:59.300747 - Found @FILE620.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/@FILE620
+2025-04-13 21:15:59.300804 - Found MWCBLCPY.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/MWCBLCPY
