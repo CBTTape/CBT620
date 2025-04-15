@@ -1,7 +1,7 @@
-2025-04-15 03:59:52.420780 - Received CBT.V505.FILE620.PDS from FILE620.XMI 
-2025-04-15 03:59:52.422034 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$$#DATE
-2025-04-15 03:59:52.422269 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE1
-2025-04-15 03:59:52.422481 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE2
-2025-04-15 03:59:52.422681 - Found $SAMPJCL.jcl (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$SAMPJCL
-2025-04-15 03:59:52.423026 - Found @FILE620.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/@FILE620
-2025-04-15 03:59:52.423183 - Found MWCBLCPY.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/MWCBLCPY
+2025-04-15 22:49:24.949087 - Received CBT.V505.FILE620.PDS from FILE620.XMI 
+2025-04-15 22:49:24.949999 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$$#DATE
+2025-04-15 22:49:24.950384 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE1
+2025-04-15 22:49:24.950548 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$$NOTE2
+2025-04-15 22:49:24.950707 - Found $SAMPJCL.jcl (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/$SAMPJCL
+2025-04-15 22:49:24.950763 - Found @FILE620.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/@FILE620
+2025-04-15 22:49:24.951052 - Found MWCBLCPY.txt (text/plain) in CBT.V505.FILE620.PDS, moved to PDS/MWCBLCPY
